@@ -10,7 +10,7 @@
             android:title="Home" />
         <item
             android:id="@+id/match"
-            android:icon="@drawable/ic_schedule_black_24dp"
+            android:icon="@drawable/ic_alarm_black_24dp"
             android:title="Matchs" />
     </group>
 
